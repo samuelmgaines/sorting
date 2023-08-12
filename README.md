@@ -1,4 +1,4 @@
-# Sam Gaines - Sorting Algorithms
+# Sam Gaines - Sorting Algorithms Project
 
 ## Project Description
 
